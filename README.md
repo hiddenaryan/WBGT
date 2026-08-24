@@ -101,6 +101,7 @@ This system can be used for:
 
 The accuracy of WBGT depends on the quality and resolution of the input weather and radiation data. The implementation is intended for **environmental heat-stress estimation**, not medical diagnosis.
 
-## Author
 
 Developed as part of a **Smart India Hackathon (SIH)** project.
+
+
